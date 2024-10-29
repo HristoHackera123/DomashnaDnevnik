@@ -1,0 +1,14 @@
+C:\Users\encho\source\repos\Domashna3\DenvnikSUchenici\bin\Debug\net8.0\DenvnikSUchenici.exe
+C:\Users\encho\source\repos\Domashna3\DenvnikSUchenici\bin\Debug\net8.0\DenvnikSUchenici.deps.json
+C:\Users\encho\source\repos\Domashna3\DenvnikSUchenici\bin\Debug\net8.0\DenvnikSUchenici.runtimeconfig.json
+C:\Users\encho\source\repos\Domashna3\DenvnikSUchenici\bin\Debug\net8.0\DenvnikSUchenici.dll
+C:\Users\encho\source\repos\Domashna3\DenvnikSUchenici\bin\Debug\net8.0\DenvnikSUchenici.pdb
+C:\Users\encho\source\repos\Domashna3\DenvnikSUchenici\obj\Debug\net8.0\DenvnikSUchenici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\encho\source\repos\Domashna3\DenvnikSUchenici\obj\Debug\net8.0\DenvnikSUchenici.AssemblyInfoInputs.cache
+C:\Users\encho\source\repos\Domashna3\DenvnikSUchenici\obj\Debug\net8.0\DenvnikSUchenici.AssemblyInfo.cs
+C:\Users\encho\source\repos\Domashna3\DenvnikSUchenici\obj\Debug\net8.0\DenvnikSUchenici.csproj.CoreCompileInputs.cache
+C:\Users\encho\source\repos\Domashna3\DenvnikSUchenici\obj\Debug\net8.0\DenvnikSUchenici.dll
+C:\Users\encho\source\repos\Domashna3\DenvnikSUchenici\obj\Debug\net8.0\refint\DenvnikSUchenici.dll
+C:\Users\encho\source\repos\Domashna3\DenvnikSUchenici\obj\Debug\net8.0\DenvnikSUchenici.pdb
+C:\Users\encho\source\repos\Domashna3\DenvnikSUchenici\obj\Debug\net8.0\DenvnikSUchenici.genruntimeconfig.cache
+C:\Users\encho\source\repos\Domashna3\DenvnikSUchenici\obj\Debug\net8.0\ref\DenvnikSUchenici.dll
